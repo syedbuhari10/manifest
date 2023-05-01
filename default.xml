@@ -2,6 +2,6 @@
 <manifest>
     <remote fetch="https://github.com/syedbuhari10" name="origin" ></remote>
     <default remote="origin" sync-j="4" revision="master" />
-    <project name="MyVectorImpl" path="/MyVec" />
-    <project name="img2ascii" path="/img2ascii" />
+    <project name="MyVectorImpl" path="MyVec" />
+    <project name="img2ascii" path="img2ascii" />
 </manifest>
